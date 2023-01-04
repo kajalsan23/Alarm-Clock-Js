@@ -31,7 +31,6 @@ function checkZero(i) {
 }
 
 function hrsMenu() {
-  console.log('call');
   var select = document.getElementById('alarmHrs');
   var hours = 23;
 
