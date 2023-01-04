@@ -2,7 +2,7 @@
 // import './style.css';
 
 // Write Javascript code!
-// window.addEventListener("load", buildIt);
+window.addEventListener('load', buildIt);
 
 function buildIt() {
   startTime();
