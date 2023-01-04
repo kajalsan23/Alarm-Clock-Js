@@ -1,8 +1,8 @@
 // Import stylesheets
-//  import './style.css';
+import './style.css';
 
 // Write Javascript code!
-window.addEventListener("load", buildIt);
+window.addEventListener('load', buildIt);
 
 function buildIt() {
   startTime();
@@ -31,7 +31,7 @@ function checkZero(i) {
 }
 
 function hrsMenu() {
-  console.log("call")
+  console.log('call');
   var select = document.getElementById('alarmHrs');
   var hours = 23;
 
